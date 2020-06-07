@@ -2,7 +2,7 @@
 
 # Jonatas Almeida
 
--------- Recursos Utilizados ----------
+------------------------- Recursos Utilizados ----------------------------------------------------------------------------------
 Java 8;
 Spring;
 TDD;
@@ -10,7 +10,7 @@ Webclient (Async api)
 Server Compression (Melhorias de performance)
 Json non-nullable (Melhorias de performance)
 
---------Resultados obtidos --------------
+----------------------------Resultados obtidos ----------------------------------------------------------------------------------
 Teste 1 (Obter valores de hotéis por estadia e Cidade) 
 localhost:8080/hotels-available?cityCode=1032&checkIn=2020-06-01&checkOut=2020-06-04&adultNumber=2&childNumber=1
 
